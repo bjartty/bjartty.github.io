@@ -33,7 +33,7 @@ a {
 	text-decoration: none;
 	text-transform: none;
 	color: #4A90E2;
-	font-size: clamp(16px, 2vw, 25px);
+	font-size: clamp(16px, 2vw, 20px);
 }
 
 body {
@@ -70,7 +70,7 @@ footer {
 }
 
 .footer-span {
-font-size: clamp(16px, 2vw, 25px);
+font-size: clamp(16px, 2vw, 20px);
 margin-top: 0.625em;
 }
 
